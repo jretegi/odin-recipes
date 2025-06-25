@@ -1,6 +1,12 @@
+body {
+    background-color: hsl(0, 0%, 0%);
+    color: white;
+}
+
 .title {
     font-size: 40px;
     text-align: center;
+    color:white;
 }
 
 .kid {
@@ -11,6 +17,10 @@
 }
 
 .kid-credit {
-    position: absolute;
-    left: 435px;
+   display: block;
+   margin-top: 0;
+   padding-left: 425px;
 }
+
+
+

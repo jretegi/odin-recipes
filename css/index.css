@@ -1,3 +1,8 @@
+body {
+    background-color: hsl(0, 0%, 0%);
+    color: white;
+}
+
 .title {
     font-family: Verdana, sans-serif;
     text-align: center;
@@ -7,4 +12,5 @@
 .recipes-list {
     font-family: Verdana, sans-serif;
     font-size: 20px;
+    color: rgb(255, 255, 255);
 }
